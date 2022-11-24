@@ -1,0 +1,11 @@
+
+Formacao Cientista de Dados
+Aspectos Diversos
+---
+Diretório de Trabalho
+```{r}
+getwd()
+setwd("c:\\dados")
+```
+
+
